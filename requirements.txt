@@ -50,4 +50,5 @@ typing_extensions==4.8.0
 urllib3==2.1.0
 yarl==1.9.3
 pytest==8.1.1
+transformers==4.38.0
 maritalk>=0.2.5
